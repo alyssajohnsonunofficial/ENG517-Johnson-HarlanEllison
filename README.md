@@ -8,3 +8,5 @@ Practice repo 1
 ### My Favorite Facts About Harlan Ellison
 
 ### My Favorite Harlan Ellison Photo
+
+![Harlan Ellison Photo](images/harlan-ellison-photo.png.webp)
